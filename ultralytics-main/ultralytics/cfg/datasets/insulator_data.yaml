@@ -1,0 +1,13 @@
+# data.yaml
+
+train: /data1/lsl/lsk/jyz/split_balanced_new/train/images/
+val: /data1/lsl/lsk/jyz/split_balanced_new/val/images
+test: /data1/lsl/lsk/jyz/split_balanced_new/test/images
+nc: 4
+
+
+names:
+  - breakage
+  - Flashover
+  - Insulator-loss
+  - Insulator
