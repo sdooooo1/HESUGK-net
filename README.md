@@ -30,5 +30,3 @@ python train.py
 ### Citation
 If our work assists your research, feel free to give us a star ⭐ or cite us using:
 
-### Thanks
-Center for Advanced Computing, School of Computer Science, China Three Gorges University
