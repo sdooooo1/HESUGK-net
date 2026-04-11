@@ -42,7 +42,7 @@ python train.py
 ### 📁 Datasets
 Some of the datasets have been uploaded to Baidu Netdisk.
 **Baidu Netdisk:**
-- Link: [https://pan.baidu.com/s/1rjGXCyEE8Vc4TMF62MxpJA](https://pan.baidu.com/s/1kIyb5gy226GL6x-fOPXZMw)
+- Link: https://pan.baidu.com/s/1pD6WJT_hJ4nB2U5zVmp4dw
 - Password: H123
 
 ### Citation
