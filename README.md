@@ -2,6 +2,19 @@
 
 ![HESUGK](ultralytics-main/images/HESUGK.png)
 
+# Hypergraph Edge-Sparse Enhancement (HESE) Module
+![HESE](ultralytics-main/images/HESE.png)
+
+# Uncertainty-Guided Kalman Gain Fusion (UGKF) Mechanism
+![UGKF](ultralytics-main/images/UGKF.png)
+
+# Visualization Results
+## Visual comparison of detection results on the IDDD dataset.
+![IDDD](ultralytics-main/images/jyz_duibi.png)
+
+## Visual comparison of detection results on the STAD dataset.
+![STAD](ultralytics-main/images/bdz_duibi.png)
+
 ### 🦄 Dependencies
 To run the code, make sure you have the following dependencies installed:
 
