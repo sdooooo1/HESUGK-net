@@ -1,6 +1,6 @@
 # HESUGK-Net: Hypergraph Edge-Sparse Uncertainty-Guided Kalman Gain Network for Electric Power Anomaly Detection
 
-ultralytics-main/images/HESUGK.png
+![HESUGK](ultralytics-main/images/HESUGK.png)
 
 ### 🦄 Dependencies
 To run the code, make sure you have the following dependencies installed:
