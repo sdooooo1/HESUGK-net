@@ -1,4 +1,4 @@
-# HESUGK-Net: Hypergraph Edge-Sparse Uncertainty-Guided Kalman Gain Network for Electric Power Anomaly Detection
+# HSKUA: Hypergraph Sparse Enhancement and Kalman Uncertainty Quantification Algorithm for Electric Power Anomaly Object Detection
 
 ![HESUGK](ultralytics-main/images/HESUGK.png)
 
