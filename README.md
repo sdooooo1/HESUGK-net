@@ -5,7 +5,7 @@
 # Hypergraph Edge-Sparse Enhancement (HESE) Module
 ![HESE](ultralytics-main/images/HESE.png)
 
-# Uncertainty-Guided Kalman Gain Fusion (UGKF) Mechanism
+# Uncertainty quantification-guided Kalman Gain Fusion (UGKF) Mechanism
 ![UGKF](ultralytics-main/images/UGKF.png)
 
 # Visualization Results
