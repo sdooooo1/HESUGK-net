@@ -1,11 +1,11 @@
-# HSKUA: Hypergraph Sparse Enhancement and Kalman Uncertainty Quantification Algorithm for Electric Power Anomaly Object Detection
+# HESUGK-net: Hypergraph Edge-Sparse Uncertainty-Guided Kalman Gain Network for Electric Power Anomaly Object Detection
 
 ![HESUGK](ultralytics-main/images/HESUGK.png)
 
-# Hypergraph Edge-Sparse Enhancement (HESE) Module
+# Hypergraph Edge-Sparse Enhancement (HESE) module
 ![HESE](ultralytics-main/images/HESE.png)
 
-# Uncertainty quantification-guided Kalman Gain Fusion (UGKF) Mechanism
+# Uncertainty-Guided Kalman Gain Fusion (UGKF) Mechanism
 ![UGKF](ultralytics-main/images/UGKF.png)
 
 # Visualization Results
