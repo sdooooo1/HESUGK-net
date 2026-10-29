@@ -40,7 +40,7 @@ pip install -e .
 python train.py
 ```
 ### 📁 Datasets
-Some of the datasets have been uploaded to Baidu Netdisk.
+The datasets have been uploaded to Baidu Netdisk.
 **Baidu Netdisk:**
 - Link: [https://pan.baidu.com/s/1pD6WJT_hJ4nB2U5zVmp4dw](https://pan.baidu.com/s/17_TlwJIYbtTVIqFOLbWb4w?pwd=H123)
 - Password: H123
